@@ -1,0 +1,5 @@
+com/per/cuidador/CuidadorApplication.class
+com/per/cuidador/Entity/Cuidador.class
+com/per/cuidador/Controller/CuidadorController.class
+com/per/cuidador/Service/CuidadorService.class
+com/per/cuidador/Repository/CuidadorRepository.class
